@@ -1,0 +1,189 @@
+body {
+    background-color: #FFC19E; 
+}
+/* Navigation links */
+/* Style the navigation menu */
+.navbar {
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+}
+
+/* Navigation links */
+.navbar a {
+    float: left;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+    width: 25%;
+    /* Four equal-width links. If you have two links, use 50%, and 33.33% for three links, etc.. */
+    text-align: center;
+    /* If you want the text to be centered */
+}
+
+/* Add a background color on mouse-over */
+.navbar a:hover {
+    background-color: #997;
+}
+
+/* Style the current/active link */
+.navbar a:active {
+    background-color: #997;
+}
+
+#bannerimg {
+    padding-bottom: 0px;
+    width: 100%;
+    height: auto;
+}
+
+
+/* homepage */
+.homebox {
+    position: relative;
+    width: 35%;
+    margin: 3rem;
+    padding: 3rem;
+    color: #FFF;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: left;
+    border-width: 10px;
+    border-radius: 30px;
+    border-color: black;
+    border-style: solid;
+    background-color: #414141;
+}
+.homepic {
+    position: absolute;
+    width: 30%;
+    margin: 3rem;
+    top: 300px;
+    right: 50px;
+    padding: 10px;
+    border-width: 10px;
+    border-radius: 30px;
+    border-color: beige;
+    border-style: solid;
+}
+
+/* About me Page */
+.aboutmebox {
+    position: relative;
+    width: 30%;
+    margin: 4rem;
+    padding: 1rem;
+    color: #FFF;
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-align: center;
+    border-width: 5px;
+    border-radius: 30px;
+    border-color: black;
+    border-style: solid;
+    background-color: #414141;
+}
+.aboutmebox2 {
+    position: relative;
+    width: 35%;
+    margin: 4rem;
+    padding: 1rem;
+    color: #FFF;
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-align: left;
+    border-width: 5px;
+    border-radius: 30px;
+    border-color: black;
+    border-style: solid;
+    background-color: #414141;
+}
+.siblingpic {
+    position: absolute;
+    width: 30%;
+    margin: 3rem;
+    top: 300px;
+    right: 50px;
+    padding: 10px;
+    border-width: 10px;
+    border-radius: 30px;
+    border-color: beige;
+    border-style: solid;
+}
+.aboutmebox3 {
+    position: relative;
+    width: 35%;
+    margin: 4rem;
+    padding: 1rem;
+    color: #FFF;
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-align: left;
+    border-width: 5px;
+    border-radius: 30px;
+    border-color: black;
+    border-style: solid;
+    background-color: #414141;
+}
+
+/* project page */
+.projectpic {
+    position: absolute;
+    width: 30%;
+    margin: 3rem;
+    top: 400px;
+    left: 0px;
+    padding: 10px;
+    border-width: 10px;
+    border-radius: 30px;
+    border-color: beige;
+    border-style: solid;
+}
+
+.gimpbox{
+   position: relative;
+    width: 88%;
+    margin: 4rem;
+    padding: 1rem;
+    color: #FFF;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    border-width: 5px;
+    border-radius: 30px;
+    border-color: black;
+    border-style: solid;
+    background-color: #414141; 
+}
+
+/* deep thoughts page */
+.deepthoughtsbox{
+    position: relative;
+    width: 35%;
+    margin: 4rem;
+    padding: 1rem;
+    color: #FFF;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: center;
+    border-width: 5px;
+    border-radius: 30px;
+    border-color: black;
+    border-style: solid;
+    background-color: #414141; 
+}
+
+.deepthoughtspic{
+     position: absolute;
+    width: 30%;
+    margin: 3rem;
+    top: 300px;
+    right: 50px;
+    padding: 10px;
+    border-width: 10px;
+    border-radius: 30px;
+    border-color: beige;
+    border-style: solid;
+}
